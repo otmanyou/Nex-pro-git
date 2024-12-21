@@ -84,7 +84,7 @@ async def lag(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 def main() -> None:
     # Create an Updater object to fetch updates from Telegram
-    app = ApplicationBuilder().token("bot_token").build()
+    app = ApplicationBuilder().token("5335475397:AAFiOlahN5qbMoazi7SYBnd2XPsfz4xzvRs").build()
 
     # Get the dispatcher to register handlers
     
